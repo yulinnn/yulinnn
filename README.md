@@ -1,4 +1,6 @@
 ### Hi there 👋
+我是yulinn，广东工业大学计算机学院计算机科学与技术专业的学生，兴趣是乒乓球，目前正在学习的方向是计算机图形学和可视化，期望与大家一起学习交流。
+ユリンです。広東工業大学CS専攻の学部生です。趣味は卓球です。今取り組んでる方向はコンピュターグラフィックスとビジュアライゼーションです。よろしくお願いします！
 
 <!--
 **yulinnn/yulinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
